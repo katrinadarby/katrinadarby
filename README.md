@@ -1,8 +1,8 @@
-<img/>## Hi there 👋
+## Hi there! 👋
 
-
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,html,css)](https://skillicons.dev)
+**I'm Katrina (she/her)** - I'm a software developer, visual development artist, and computer engineering student at FIU! I'm interested in developing programs and tools for both software and hardware systems, as well as wanting to contribute towards open-sourced projects. If I'm not programming, catch me designing concept art for freelance opportunities within animated productions!
+### 🛠️ Tech Stack & Skills
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,c,html,css,nodejs,gcp,git,github)](https://skillicons.dev)
 <!--
 **katrinadarby/katrinadarby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
